@@ -1,0 +1,6 @@
+pwd: Muestra la ruta en la que te ubicas
+cd: Ayuda a cambiar de directorio
+ls: muestra los archivos 
+-al: este argumento ayuda a enlistar los archivos y mostrar los ocultos 
+history: muestra la historia de todos los comandos que has hecho 
+mkdir: ayuda a hacer directorios 
