@@ -43,6 +43,8 @@ body{
 #post{
     padding: 1em;
     background: white;
+    color: #37488b;
+    font-size: 20px;
 }
 
 #footer{
